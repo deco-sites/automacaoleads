@@ -4,8 +4,9 @@
 
 import * as $$$$$$$$$0 from "./actions/createAirtableRecord.ts";
 import * as $$$$$$$$$1 from "./actions/createCompleteAirtableRecord.ts";
-import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
-import * as $$$$$$$$$$$1 from "./apps/site.ts";
+import * as $$$$$$$$$$$0 from "./apps/deco/blog.ts";
+import * as $$$$$$$$$$$1 from "./apps/deco/htmx.ts";
+import * as $$$$$$$$$$$2 from "./apps/site.ts";
 import * as $$$$$$10 from "./sections/blog.tsx";
 import * as $$$$$$11 from "./sections/ebook.tsx";
 import * as $$$$$$0 from "./sections/FAQ.tsx";
@@ -49,8 +50,9 @@ const manifest = {
     "site/actions/createCompleteAirtableRecord.ts": $$$$$$$$$1,
   },
   "apps": {
-    "site/apps/deco/htmx.ts": $$$$$$$$$$$0,
-    "site/apps/site.ts": $$$$$$$$$$$1,
+    "site/apps/deco/blog.ts": $$$$$$$$$$$0,
+    "site/apps/deco/htmx.ts": $$$$$$$$$$$1,
+    "site/apps/site.ts": $$$$$$$$$$$2,
   },
   "name": "site",
   "baseUrl": import.meta.url,
