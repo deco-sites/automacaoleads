@@ -51,29 +51,9 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/image-with-paragraph.tsx",
-        "backgroundColor": "#ffffff",
-        "description": "Você não precisa tricar de ferramenta ou integrador. Nós fazemos o trabalho pesado e entregamos leads quentinhos no seu site, CRM e Whatsapp",
-        "title": "A Leadfy se integra às soluções mais usadas no mercado.",
-        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/884bbb65-6b81-481d-b9b2-0453ac9d6391/Captura-de-tela-2024-10-01-171253.png",
-        "cta": [
-          {
-            "text": "Faça um teste Grátis",
-            "href": "/"
-          }
-        ],
-        "ctaText": "Teste Grátis",
-        "ctaHref": "https://wa.me/5561982214588",
-        "ctaBackgroundColor": "#daff01",
-        "ctaTextColor": "1b1b1b"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/ebook.tsx",
-        "description": "Descubra como transformar seu site em uma máquina de vendas.",
         "title": "<h1 style=\"text-align: start\"><strong><span style=\"font-size: 34px\">Venda mais com atendimento 24x7</span></strong></h1>",
+        "description": "Descubra como transformar seu site em uma máquina de vendas.",
         "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy/646bcb37-b4ec-44b5-919b-306530da404a/36734tl1g9i.png",
         "downloadLink": "https://info.leadfy.me/ebook-atendimento"
       }
@@ -82,25 +62,12 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Footer.tsx",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/00cb8e4c-dae1-4ea8-b0d0-45abbfa054ea/Factor-L.png",
         "href": "/",
         "text": "© 2024. Leadfy. Todos os Direitos Reservados.",
-        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/00cb8e4c-dae1-4ea8-b0d0-45abbfa054ea/Factor-L.png",
         "alt": "GarageCar Veiculos",
         "width": 64,
         "height": 64
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "blog/sections/Seo/SeoBlogPostListing.tsx",
-        "jsonLD": {
-          "posts": [
-            {
-              "__resolveType": "collections/blog/posts/5c16583f16ea"
-            }
-          ]
-        }
       }
     }
   ],

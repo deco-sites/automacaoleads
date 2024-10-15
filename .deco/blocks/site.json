@@ -7,7 +7,8 @@
     "title": "Leadfy",
     "favicon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/00cb8e4c-dae1-4ea8-b0d0-45abbfa054ea/Factor-L.png",
     "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/00cb8e4c-dae1-4ea8-b0d0-45abbfa054ea/Factor-L.png",
-    "titleTemplate": "Leadfy"
+    "titleTemplate": "Leadfy",
+    "descriptionTemplate": "%s"
   },
   "global": [
     {
