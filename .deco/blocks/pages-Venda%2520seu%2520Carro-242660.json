@@ -10,53 +10,36 @@
     {
       "__resolveType": "site/sections/Header.tsx",
       "logo": {
-        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/2d69bd9f-53f8-4f9e-b207-c6215865c098/leadfy_black.png",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/b9b716ce-f7d7-4e5e-bd95-dbce5c58fe7d/Group-427318083.png",
         "alt": "Leadfy",
-        "width": 179,
-        "height": 80
+        "width": 700,
+        "height": 100
       },
-      "navItems": [
-        {
-          "label": "Soluções",
-          "openInNewTab": true
-        },
-        {
-          "label": "Planos",
-          "href": "#faq"
-        },
-        {
-          "label": "Automação de Leads",
-          "href": "#unidades"
-        },
-        {
-          "label": "Quem somos"
-        },
-        {}
-      ],
+      "navItems": [],
       "cta": {
         "href": "#contato",
         "text": "Contato"
       },
-      "backgroundColor": "#daff01"
+      "backgroundColor": "#1b1b1b"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/hero-leadfy.tsx",
         "buttonHref": "https://wa.me/5561982214588",
-        "buttonText": "Faça um teste grátis",
+        "buttonText": "Saiba Mais",
         "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/e0616e9c-f18b-4c72-bc0a-1a85a6e601b7/Captura-de-tela-2024-10-01-152951.png",
         "highlightColor": "#a40a0a",
-        "subtitle": "Turbinamos seu negócio atraindo e atendendo leads qualificados todo dia, toda hora",
-        "title": "<p>Nós trazemos os clientes, <u>você fecha mais vendas</u></p>",
+        "subtitle": "O jeito mais atual para tratar, analisar e engajar o novo consumidor digital na sua jornada de compra.",
+        "title": "<p>Automação de Leads® </p>",
         "logo1": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/251ddb99-df4e-4a3c-bce5-243a8486aaa8/baixados-(4).png",
         "logo2": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/4216ac0d-3d1a-4c25-8dff-63d722f5bc89/banco-brb-1.svg",
         "logo3": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/c05ee7c3-b73d-4051-84f1-c9a94e7913c7/Logo-Gradiente.png",
         "logo4": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/0e3bba17-817a-4ec4-9d45-9e8ba4269174/images-(1).png",
         "logo5": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/349ce1d4-488f-44e6-bd62-7ff1c71b632f/baixados-(3).jpeg",
         "logo6": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/1af0ea70-b3a1-4957-87e5-e67d53ac3a0c/images-(2).png",
-        "dashboardImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/45850fbb-c575-4505-9303-ea1e4bda3cb4/Captura-de-tela-2024-10-01-152951.png",
-        "trustText": "Grandes marcas que confiam na nossa Tecnologia",
+        "dashboardImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/70f997fd-b095-41a6-ad47-4fdfff4302b2/Imagem-do-WhatsApp-de-2024-10-15-a(s)-07.58.53_e2bba5db.jpg",
+        "trustText": "Grandes marcas que já entenderam",
         "brandLogos": [
           "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy/17326226-a59a-4a9c-bc24-fa41b432a5e0/images-(3)-Photoroom.png",
           "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/82fb7629-e18f-4a2b-8e0b-d30c652274e1/banco-brb-1.svg",
@@ -83,153 +66,6 @@
         "ctaHref": "https://wa.me/5561982214588",
         "ctaBackgroundColor": "#daff01",
         "ctaTextColor": "1b1b1b"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/testimonials.tsx",
-        "testimonials": [
-          {
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/c46c51b8-56e2-437a-a616-5ebedc08c930/Captura-de-tela-2024-10-01-172456.png",
-            "name": "Yuri Gitahy",
-            "company": "Garage 88",
-            "testimonial": "“A Leadfy trouxe 1000 leads qualificados em um ano, aumentando nossas vendas online entre 30% e 40%. Hoje, 55% do nosso faturamento vem do digital e vamos aumentar nossa aposta.”"
-          },
-          {
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/c46c51b8-56e2-437a-a616-5ebedc08c930/Captura-de-tela-2024-10-01-172456.png",
-            "name": "Yuri Gitahy",
-            "company": "Garage 88",
-            "testimonial": "“A Leadfy trouxe 1000 leads qualificados em um ano, aumentando nossas vendas online entre 30% e 40%. Hoje, 55% do nosso faturamento vem do digital e vamos aumentar nossa aposta.”"
-          },
-          {
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/c46c51b8-56e2-437a-a616-5ebedc08c930/Captura-de-tela-2024-10-01-172456.png",
-            "name": "Yuri Gitahy",
-            "company": "Garage 88",
-            "testimonial": "“A Leadfy trouxe 1000 leads qualificados em um ano, aumentando nossas vendas online entre 30% e 40%. Hoje, 55% do nosso faturamento vem do digital e vamos aumentar nossa aposta.”"
-          },
-          {
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/c46c51b8-56e2-437a-a616-5ebedc08c930/Captura-de-tela-2024-10-01-172456.png",
-            "name": "Yuri Gitahy",
-            "company": "Garage 88",
-            "testimonial": "“A Leadfy trouxe 1000 leads qualificados em um ano, aumentando nossas vendas online entre 30% e 40%. Hoje, 55% do nosso faturamento vem do digital e vamos aumentar nossa aposta.”"
-          }
-        ],
-        "buttonUrl": "https://wa.me/5561982214588",
-        "backgroundColor": "#f3f4f6",
-        "buttonColor": "#daff01"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/features-leadfy.tsx",
-        "buttonHref": "https://wa.me/5561982214588",
-        "buttonText": "Fale com Especialista",
-        "features": [
-          {
-            "title": "Economize tempo e trabalho",
-            "description": "Atualizamos seus anúncios com seu estoque em tempo real",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/38af45ae-5416-4e55-b818-1e2a860fef7b/clock.png"
-          },
-          {
-            "title": "Otimize seus resultados",
-            "description": "Melhoramos a performance das suas campanhas de aquisição e remarketing",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/6c168644-eade-42c6-814f-f37bca1292dc/filter-add.png"
-          },
-          {
-            "title": "Seja mais competitivo",
-            "description": "Traga as estratégias dos grandes portais para o site do seu negócio",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/1e6eaf20-f904-44ff-8ffe-4ec42d48f5f6/cup.png"
-          },
-          {
-            "title": "Venda fora do horário comercial",
-            "description": "Nosso módulo de atendimento 24×7 não deixa você perder nenhum cliente",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-sell/5543d561-ec28-40fd-8e4d-cce4ff4cbcd5/message-add.png"
-          }
-        ],
-        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/45850fbb-c575-4505-9303-ea1e4bda3cb4/Captura-de-tela-2024-10-01-152951.png",
-        "infinityLoopImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/d93298bb-ac52-4fc3-ba26-0fcdb08d662f/Captura-de-tela-2024-10-01-170126.png",
-        "partnerLogos": [
-          "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy/a0b92aa5-e745-44af-be36-5af267d91112/ADXhHGrsXLnaYJQPxu740ft0foCCfijO8cEkxPin-Photoroom.png",
-          "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy/0c51efa0-f913-4efd-a02a-da2a2e77d0ad/logotipometabusiness-1-Photoroom.png",
-          "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/6ac5f8c2-4758-455a-9fca-382e1682b9cb/TikTok-partner-ConversImagem.png",
-          "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy/493f0482-9d77-43a0-b016-cc572f6fb6c2/Stellantis.svg.png"
-        ],
-        "trustMessage": "Certificados pelas maiores plataformas de mídias digitais",
-        "buttonUrl": "https://wa.me/5561982214588",
-        "subtitle": "Nossa tecnologia aumenta seu faturamento, atende seu cliente em amplia seu branding (com um investimento menor que você imagina)",
-        "mainTitle": "<p>A Leadfy complementa sua estratégia de marketing e vendas na nova jornada digital de compra.</p>",
-        "navItems": "<p><br data-mce-bogus=\"1\"></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/planos.tsx",
-        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy-home/b971f042-d539-4565-8996-7121bcac0346/Group-48095896.png",
-        "features": [
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "atracao": true,
-            "qualificacao": true,
-            "atendimento": true,
-            "aquisicao": true,
-            "name": "Gestor Automático"
-          },
-          {
-            "name": "Aluguel de anão",
-            "aquisicao": true
-          }
-        ],
-        "backgroundColor": "#ffffff",
-        "accentColor": "#daff01",
-        "checkIcon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/leadfy/9e71c809-be15-415c-a28d-98d7295099e3/Captura_de_tela_2024-08-27_142637-removebg-preview.png",
-        "textColor": "#1b1b1b",
-        "buttonBackgroundColor": "#daff01",
-        "buttonTextColor": "#1b1b1b",
-        "buttonLink": "https://zcal.co/geovanicarvalho?utm_campaign=fenauto01&utm_medium=aterrisagem01"
       }
     },
     {
