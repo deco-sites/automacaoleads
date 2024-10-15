@@ -10,9 +10,9 @@
     {
       "__resolveType": "site/sections/Header.tsx",
       "logo": {
-        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/b9b716ce-f7d7-4e5e-bd95-dbce5c58fe7d/Group-427318083.png",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/05edf71e-f8dc-494b-b185-03089457f5f9/prov.png",
         "alt": "Leadfy",
-        "width": 700,
+        "width": 900,
         "height": 100
       },
       "navItems": [],
