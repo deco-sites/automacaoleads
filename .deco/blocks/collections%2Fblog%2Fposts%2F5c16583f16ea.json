@@ -3,10 +3,18 @@
   "__resolveType": "blog/loaders/Blogpost.ts",
   "post": {
     "authors": [
-      null
+      {
+        "name": "Yuri Gitahy",
+        "email": "yuri@leadfy.me",
+        "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/46bc55e9-16c4-43c3-90ff-908b84d91c8b/Captura-de-tela-2024-10-01-172456.png",
+        "jobTitle": "COO",
+        "company": "Leadfy"
+      }
     ],
     "categories": [],
-    "extraProps": [],
+    "extraProps": [
+      {}
+    ],
     "title": "Brandformance: Transformando Branding emVendascomAutomaçãode  Leads",
     "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/239daa67-5feb-45c2-a431-570024bca2e7/Captura-de-tela-2024-10-15-094358.png",
     "excerpt": "Brandformance é uma palavra um pouco estranha que em breve será citada por boa  parte dos influenciadores digitais.",

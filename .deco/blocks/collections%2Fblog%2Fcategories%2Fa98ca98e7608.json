@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/a98ca98e7608",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Automação de Leads",
+    "slug": "automacao-leads"
+  }
+}
