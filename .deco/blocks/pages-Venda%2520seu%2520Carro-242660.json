@@ -71,9 +71,7 @@
                 "slug": "automacao-leads"
               }
             ],
-            "extraProps": [
-              {}
-            ],
+            "extraProps": [],
             "title": "Brandformance: Transformando Branding em Vendas com Automação de  Leads",
             "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/239daa67-5feb-45c2-a431-570024bca2e7/Captura-de-tela-2024-10-15-094358.png",
             "excerpt": "Brandformance é uma palavra um pouco estranha que em breve será citada por boa  parte dos influenciadores digitais.",
@@ -86,6 +84,29 @@
             "readTime": 10
           }
         }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "blog/sections/Seo/SeoBlogPostListing.tsx",
+        "jsonLD": {
+          "posts": [
+            {
+              "__resolveType": "collections/blog/posts/5c16583f16ea"
+            }
+          ],
+          "pageInfo": {
+            "currentPage": 0,
+            "nextPage": "2",
+            "previousPage": "1",
+            "pageTypes": []
+          },
+          "seo": {
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/239daa67-5feb-45c2-a431-570024bca2e7/Captura-de-tela-2024-10-15-094358.png"
+          }
+        },
+        "title": "Confira"
       }
     },
     {
