@@ -8,7 +8,7 @@ import * as $$$$$$$$$$$0 from "./apps/deco/blog.ts";
 import * as $$$$$$$$$$$1 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$2 from "./apps/deco/records.ts";
 import * as $$$$$$$$$$$3 from "./apps/site.ts";
-import * as $$$$$$10 from "./sections/blog.tsx";
+import * as $$$$$$10 from "./sections/blog_automa%C3%A7%C3%A3o.tsx";
 import * as $$$$$$11 from "./sections/ebook.tsx";
 import * as $$$$$$0 from "./sections/FAQ.tsx";
 import * as $$$$$$12 from "./sections/features-leadfy.tsx";
@@ -28,7 +28,7 @@ import * as $$$$$$9 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "site/sections/blog.tsx": $$$$$$10,
+    "site/sections/blog_automa%C3%A7%C3%A3o.tsx": $$$$$$10,
     "site/sections/ebook.tsx": $$$$$$11,
     "site/sections/FAQ.tsx": $$$$$$0,
     "site/sections/features-leadfy.tsx": $$$$$$12,

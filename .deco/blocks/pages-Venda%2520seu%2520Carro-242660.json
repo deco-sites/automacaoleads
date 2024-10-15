@@ -130,15 +130,6 @@
         "width": 64,
         "height": 64
       }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/blog.tsx",
-        "posts": [
-          {}
-        ]
-      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
