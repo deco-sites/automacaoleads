@@ -1,4 +1,5 @@
 import { ImageWidget } from 'apps/admin/widgets.ts';
+import { BlogPostType } from "deco-sites/leadfy/loaders/blog/types.ts";
 
 interface BlogPost {
   image: ImageWidget;
@@ -29,6 +30,10 @@ interface Props {
    * @format color-input
    */
   accentColor?: string;
+  /**
+   * @description Select a featured blog post
+   */
+  featuredPost?: BlogPostType;
 }
 
 export default function BlogSection({
@@ -37,6 +42,7 @@ export default function BlogSection({
   backgroundColor = "#ffffff",
   textColor = "#000000",
   accentColor = "#ccff00",
+  featuredPost,
   posts = [
     {
       image: "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1818/b0f8ca2d-9c83-48f7-88de-1a6e6d1e9eb7",
@@ -62,6 +68,19 @@ export default function BlogSection({
     <section style={{ backgroundColor, color: textColor }} class="py-12 px-4">
       <div class="max-w-6xl mx-auto">
         <h2 class="text-4xl font-bold mb-2" dangerouslySetInnerHTML={{ __html: title }} />
+        
+        {featuredPost && (
+          <div class="mb-8 bg-white shadow-md rounded-lg overflow-hidden">
+            <img src={featuredPost.image} alt={featuredPost.title} class="w-full h-64 object-cover" />
+            <div class="p-6">
+              <p class="text-sm text-gray-600 mb-2">{new Date(featuredPost.date).toLocaleDateString()}</p>
+              <h3 class="text-2xl font-semibold mb-2">{featuredPost.title}</h3>
+              <p class="text-gray-700">{featuredPost.description}</p>
+            </div>
+          </div>
+        )}
+        
+        <h3 class="text-2xl font-bold mb-4">Outros Posts</h3>
         <p class="text-xl mb-8" dangerouslySetInnerHTML={{ __html: subtitle }} />
         
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
