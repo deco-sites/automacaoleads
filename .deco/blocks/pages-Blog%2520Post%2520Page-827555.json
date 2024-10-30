@@ -2,7 +2,12 @@
   "name": "Blog Post Page",
   "path": "/blog/:slug",
   "sections": [
-    { "__resolveType": "site/sections/Header.tsx" },
+    {
+      "__resolveType": "site/sections/Header.tsx",
+      "logo": {
+        "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/automacaoleads/4d0bf333-57f0-4bb3-819f-4ef8e63f19c2/leadfy_logo.png"
+      }
+    },
     {
       "__resolveType": "site/sections/BlogPost.tsx",
       "post": {
@@ -20,7 +25,9 @@
         }
       }
     },
-    { "__resolveType": "site/sections/Footer.tsx" }
+    {
+      "__resolveType": "site/sections/Footer.tsx"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx",
   "seo": {
