@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {}
+      ]
+    }
+  ],
+  "bottomLinks": [],
+  "social": [],
+  "subscribe": {
+    "instructions": "<p></p>"
+  }
+}

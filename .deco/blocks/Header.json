@@ -1,0 +1,23 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Performance",
+        "url": "/performance"
+      },
+      {
+        "label": "Culture",
+        "url": "/culture"
+      },
+      {
+        "label": "Customization",
+        "url": "/customization"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/blogleadfy/172be72d-ab14-4b1c-9bc7-89a00cc68a98/Automacao-de-Leads.png"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1>O que a gente quiser aqui</h1>",
+      "description": "aqui também",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/blogleadfy/b41b7a5f-45be-4fa2-8626-fb9c194957f8/Leadfy---Produto-Quadro-de-Funcionalidades-Q4_2024.png"
+    },
+    {
+      "__resolveType": "site/sections/MainPost.tsx",
+      "post": {
+        "__resolveType": "blog/loaders/BlogPostItem.ts",
+        "slug": "como-vender-mais-com-atendimento-24-horas"
+      }
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "posts": {
+        "__resolveType": "blog/loaders/BlogpostList.ts",
+        "count": 6
+      }
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "type": "website"
+  }
+}
